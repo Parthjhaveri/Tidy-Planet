@@ -5,7 +5,7 @@ var HelloWorld = React.createClass({
   render: function() {
     return (
       <div>
-        <h1>Hello World!</h1>
+        <h1>Healthy Planet!</h1>
       </div>
     )
   }
