@@ -5,13 +5,14 @@ var $ = require('jquery');
 import { IndexRoute,Link, Router, Route, browserHistory } from 'react-router';
 import CSS from './App.css';
 import Home from './home.jsx'
-
+import Navbar from './navbar.jsx';
 
 // THE PARENT COMPONENT
 var App = React.createClass({
   render: function() {
     return (
       <div>
+      	<Navbar />
         {this.props.children}
       </div>
     )
