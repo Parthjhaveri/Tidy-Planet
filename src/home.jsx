@@ -72,7 +72,6 @@ var Home = React.createClass({
                           <br/>
                           <br/>
                           <br />
-                          <br />
                           <em><a href="http://www.conserve-energy-future.com/" target="_blank" className="conservecredit"> -Conserve-Energy-Future</a></em>
                         </strong>
                         </p>
@@ -148,6 +147,36 @@ var Home = React.createClass({
             </center>
           </div>
         </div>
+
+        {
+          // LAND POLLUTION
+        }
+
+         <div className="landpolldiv">
+            <div className="container">
+              <center>
+                <div className="row">
+                  
+                  <div className="col-md-6" id="whathappensright">
+                      <p className="rightbox">Fifty-five percent gets buried in landfills, 33 percent gets recycled, and 12.5 percent goes to incinerators</p>
+                      <br />
+                      <p className="rightbox">If your trash goes to a landfill it will end up sealed in the ground, where some liquids leak into the ground</p>
+                      <br />
+                      <p className="rightbox">Landfills also release one-fourth of all methane; landfill and wastewater treatment gases made up 2.3 percent of U.S. greenhouse gas emissions in 2005</p>
+                      <br />
+                      <p className="rightbox">Burning trash also produces gases such as Nitrogen oxides and Sulfur-Dioxide (both cause smog and the latter causes Acid-Rain), as well as trace amounts of toxics such as mercury compounds and Dioxins</p>
+                      <p id="natgeocredit"><em><a href="http://channel.nationalgeographic.com/channel/human-footprint/trash-talk.html" target="_blank">-NatGeo</a></em></p>
+                  </div>
+                  
+                  <div className="col-md-6" id="whathappensleft">
+                      <center><p className="leftbox">What happens to your trash once you dispose of it?</p></center>
+                      <center><h1><span className="glyphicon glyphicon-arrow-left"></span></h1></center>
+                  </div>
+                  
+                </div>
+              </center>
+            </div>
+         </div>
 
       </div>
     )

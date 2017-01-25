@@ -14,6 +14,11 @@ a:hover {
   font-weight: bolder;
 }
 
+a:visited {
+  color: #1a1a1a;
+  text-decoration: none;
+}
+
 .homePageSplasher {
   width: auto;
   height: 670px;
@@ -42,6 +47,8 @@ a:hover {
 #subheading {
   font-size: 25px;
   word-spacing: 3px;
+  font-family: 'Lato', sans-serif;
+  font-weight: lighter;
 }
 
 #spasherarrow {
@@ -60,7 +67,7 @@ a:hover {
 }
 
 .box {
-  width: 320px;
+  width: 340px;
   height: 320px;
   border: 1px solid #1a1a1a;
   background-color: white;
@@ -147,6 +154,42 @@ a:hover {
   color: #1a1a1a;
   font-family: 'Lato', sans-serif;
   font-weight: bold;
+}
+
+.landpolldiv {
+  width: auto;
+  height: 400px;
+  background-color: white;
+}
+
+#whathappensleft {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.leftbox {
+  color: #1a1a1a;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  margin-top: 20%;
+}
+
+.rightbox {
+  color: #1a1a1a;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: left;
+}
+
+#whathappensright {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#natgeocredit {
+  float: left;
 }
 
 @media only screen and (max-width: 900px) {
