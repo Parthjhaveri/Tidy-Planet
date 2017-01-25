@@ -72,6 +72,7 @@ var Home = React.createClass({
                           <br/>
                           <br/>
                           <br />
+                          <br />
                           <em><a href="http://www.conserve-energy-future.com/" target="_blank" className="conservecredit"> -Conserve-Energy-Future</a></em>
                         </strong>
                         </p>
@@ -109,6 +110,43 @@ var Home = React.createClass({
 
           </div>
 
+        </div>
+
+        {
+          // DIV #3
+        }
+
+        <div className="currentsolutions">
+
+          <div className="container">
+            <center>
+              <div className="row">
+                
+                <div className="col-md-6">
+                  <center>
+                    
+                    <div className="blackcircle">
+
+                          <center><p id="ateyate">88%</p></center>
+
+                    </div>
+
+                  </center>
+                </div>
+                
+                <div className="col-md-6" id="oceanpollutionrightbox">
+                    
+                    <p id="rightstat">Of the Earth's Oceans are now polluted with Plastic and Trash</p>
+
+                    <center><hr id="rightstathr" /></center>
+
+                    <p id="rightstatsub">8 Million Tons of Plastic are dumped in the Ocean every year- <a href="http://news.nationalgeographic.com/news/2015/02/150212-ocean-debris-plastic-garbage-patches-science/" target="_blank">NatGeo</a></p>
+
+                </div>
+
+              </div>
+            </center>
+          </div>
         </div>
 
       </div>

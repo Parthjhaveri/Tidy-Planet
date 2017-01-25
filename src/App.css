@@ -1,6 +1,17 @@
 html, body {
   margin: 0px;
   padding: 0px;
+  overflow-x: hidden;
+}
+
+a {
+  color: #1a1a1a;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #1a1a1a;
+  font-weight: bolder;
 }
 
 .homePageSplasher {
@@ -8,6 +19,7 @@ html, body {
   height: 670px;
   background-color: #46c997;
   background-image: url('../images/nature.jpg');
+  background-attachment: fixed;
   background-position: center center;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -54,7 +66,7 @@ html, body {
   background-color: white;
   display: inline-block;
   font-family: 'Lato', sans-serif;
-  font-weight: bolder;
+  font-weight: lighter;
   color: white;
 }
 
@@ -65,6 +77,7 @@ html, body {
   margin: -1px;
   padding-bottom: 10px;
   background-color: #1a1a1a;
+  font-weight: lighter;
 }
 
 .statsdiv {
@@ -80,6 +93,60 @@ html, body {
   font-size: 18px;
   text-align: center;
   padding-top: 40px;
+  font-weight: lighter;
+}
+
+.currentsolutions {
+  width: auto;
+  height: auto;
+  background-color: #e6f2ed;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#ocean {
+  width: 90%;
+}
+
+#oceanpollutionrightbox {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: #1a1a1a;
+  text-align: left;
+}
+
+.blackcircle {
+  width: 300px;
+  height: 300px;
+  border-radius: 200px;
+  background-color: #1a1a1a;
+  padding: 65px;
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-weight: lighter;
+}
+
+#ateyate {
+  font-size: 100px; 
+}
+
+#rightstat {
+  font-size: 40px;
+  font-family: 'Lato', sans-serif;
+  color: #1a1a1a;
+}
+
+#rightstathr {
+  width: 100%;
+  border-width: 2px;
+  border-color: #1a1a1a;
+}
+
+#rightstatsub {
+  font-size: 30px;
+  color: #1a1a1a;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
 }
 
 @media only screen and (max-width: 900px) {
