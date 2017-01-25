@@ -41,12 +41,46 @@ html, body {
 
 .maininfo {
   width: auto;
-  height: 400px;
+  height: auto;
   background-color: #ecede8;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
+.box {
+  width: 320px;
+  height: 320px;
+  border: 1px solid #1a1a1a;
+  background-color: white;
+  display: inline-block;
+  font-family: 'Lato', sans-serif;
+  font-weight: bolder;
+  color: white;
+}
 
+.boxhead {
+  width: auto;
+  height: auto;
+  border: 1px solid #1a1a1a;
+  margin: -1px;
+  padding-bottom: 10px;
+  background-color: #1a1a1a;
+}
 
+.statsdiv {
+  padding: 10px;
+}
+
+.conservecredit {
+  margin-left: 20px;
+}
+
+.boxstats {
+  color: #1a1a1a;
+  font-size: 18px;
+  text-align: center;
+  padding-top: 40px;
+}
 
 @media only screen and (max-width: 900px) {
   

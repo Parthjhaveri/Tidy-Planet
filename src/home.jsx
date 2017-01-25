@@ -23,6 +23,92 @@ var Home = React.createClass({
         </div>
 
         <div className="maininfo">
+
+          <div className="container">
+
+            <center>
+                <div className="row">
+                  
+                  <div className="col-md-4">
+
+                    <div className="box">
+                      
+                      <div className="boxhead">
+                        <center><h2>Oceanic Pollution</h2></center>
+                      </div>
+
+                      <div className="statsdiv">
+                        <p className="boxstats">
+                        <strong>
+                          The garbage dumped in the ocean every year is 
+                          roughly around 14 billion lbs. 
+                          <br/>
+                          Plastic is the major constituent.
+                          <br/>
+                          <br />
+                          <em><a href="http://www.conserve-energy-future.com/" target="_blank" className="conservecredit"> -Conserve-Energy-Future</a></em>
+                        </strong>
+                        </p>
+                      </div>
+
+                    </div>
+
+                  </div>
+                  
+                  <div className="col-md-4">
+
+                    <div className="box">
+                      
+                      <div className="boxhead">
+                        <center><h2>Land Pollution</h2></center>
+                      </div>
+
+
+                      <div className="statsdiv">
+                        <p className="boxstats">
+                        <strong>
+                          
+                          Almost 80% of urban waste in India is dumped in the river Ganges.
+                          <br/>
+                          <br/>
+                          <br />
+                          <em><a href="http://www.conserve-energy-future.com/" target="_blank" className="conservecredit"> -Conserve-Energy-Future</a></em>
+                        </strong>
+                        </p>
+                      </div>
+
+                    </div>
+
+                  </div>
+                  
+                  <div className="col-md-4">
+
+                    <div className="box">
+                      
+                      <div className="boxhead">
+                        <center><h2>Over-population</h2></center>
+                      </div>
+
+                      <div className="statsdiv">
+                        <p className="boxstats">
+                        <strong>
+                          
+                          By the end of the century, the world’s population might be as high as 17 billion 
+                          or as low as 7 billion, according to the most recent UN estimates.
+          
+                        </strong>
+                        </p>
+                      </div>
+
+                    </div>
+
+                  </div>
+
+                </div>
+            </center>
+
+          </div>
+
         </div>
 
       </div>
