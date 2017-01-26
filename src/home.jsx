@@ -10,6 +10,7 @@ import Navbar from './navbar.jsx';
 var Home = React.createClass({
   render: function() {
     return (
+    <div>
         <div>
           <div>
 
@@ -181,16 +182,24 @@ var Home = React.createClass({
 
           </div>
 
-                 {
-                  // OVER POPULATION DIV
-                 }
-
-                <div className="overpopdiv">
-                  
-                </div>
-
-
       </div>
+
+                  {
+                    // BEACH PIC 
+                  }
+                  
+                  <div className="beachpic">
+
+                  </div>
+ 
+                  {
+                    // OVER POPULATION DIV
+                  }
+
+                  <div className="overpopdiv">
+                    
+                  </div>
+  </div>
     )
   }
 })
