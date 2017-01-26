@@ -10,19 +10,19 @@ var Navbar = React.createClass({
   render: function() {
     return (
       <div className="navi navbar-fixed-top">  
+      		<div className="container">
+		      	<div className="row">
 
-      	<div className="row">
+				  <div className="col-md-4">
+				  	<span className="glyphicon glyphicon-globe" id="logo"></span>
+				  </div>
 
-		  <div className="col-md-4">
-		  	<span className="glyphicon glyphicon-globe" id="logo"></span>
-		  </div>
+				  <div className="col-md-8">
+				  	<span className="glyphicon glyphicon-menu-hamburger" id="ham"></span>
+				  </div>
 
-		  <div className="col-md-8">
-		  	<span className="glyphicon glyphicon-menu-hamburger" id="ham"></span>
-		  </div>
-
-		</div>
-
+				</div>
+			</div>
       </div>
     )
   }
