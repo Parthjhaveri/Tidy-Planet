@@ -13,6 +13,7 @@ var Home = React.createClass({
     <div>
         <div>
           <div>
+            <div>
 
             <div className="homePageSplasher">  
 
@@ -197,8 +198,37 @@ var Home = React.createClass({
                   }
 
                   <div className="overpopdiv">
-                    
+                      <div className="container">
+                        <div className="row">
+                          
+                          <div className="col-md-6" id="leftoverpopbox">
+                              <center><h1 className="overpopheading">Over-population</h1></center>
+                              <center><h1><span className="glyphicon glyphicon-user"></span></h1></center>
+                          </div>
+                          
+                          <div className="col-md-6" id="rightoverpopbox">
+                              
+                                <p> 
+                                  According to records, the world population has already soared past 7 billion, and every second of the day, it is growing by 3 people.
+                                  <br />
+                                  <br />
+                                  At the current rate, the population of the least-developed countries is expected to double in the next 31 years. 
+                                </p>
+                                <p id="natgeocredit"><em><a href="http://visionlaunch.com/6-dreadful-overpopulation-facts-and-statistics/" target="_blank">-VisionLaunch</a></em></p>
+                              
+                          </div>
+                        </div>
+                      </div>
                   </div>
+
+                  {
+                    // PLANS TO CLEAN UP
+                  }
+            </div>
+                  <div className="sowhatplans">
+                    <center><p>So how will we clean up this mess?</p></center>
+                  </div>
+
   </div>
     )
   }
