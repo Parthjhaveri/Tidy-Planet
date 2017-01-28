@@ -63,7 +63,7 @@ var Home = React.createClass({
                         <div className="box">
                           
                           <div className="boxhead">
-                            <center><h2>Land Pollution</h2></center>
+                            <center><h2>Global-Warming</h2></center>
                           </div>
 
 
@@ -71,11 +71,10 @@ var Home = React.createClass({
                             <p className="boxstats">
                             <strong>
                               
-                              Almost 80% of urban waste in India is dumped in the river Ganges.
-                              <br/>
+                              According to IPCC 2007 report, sea levels will rise by 7-23 inches by the end of this century due to global warming.
                               <br/>
                               <br />
-                              <em><a href="http://www.conserve-energy-future.com/" target="_blank" className="conservecredit"> -Conserve-Energy-Future</a></em>
+                              <em><a href="http://www.conserve-energy-future.com/various-global-warming-facts.php" target="_blank" className="conservecredit"> -Conserve-Energy-Future</a></em>
                             </strong>
                             </p>
                           </div>
@@ -244,7 +243,7 @@ var Home = React.createClass({
                               </div>
                               
                               <div className="col-md-4">
-                                Land Pollution
+                                Global-Warming
                               </div>
                               
                               <div className="col-md-4">
@@ -268,6 +267,9 @@ var Home = React.createClass({
                                       The project is led by a 22-year old Entrepreneur from the Neatherlands, who's Team has drafted out plans
                                       that are able collect about 40% of garbage from the 'Great Pacific Trash Vortex'- an accumulation of trash approximately the size of 
                                       Texas in the heart of the Pacific Ocean, within 10 years.
+                                      <br />
+                                      <br />
+                                      The project is in it's second phase, with full implimentation likely by the year 2020.
                                   </div>  
                                   
                                 </div>
@@ -275,7 +277,17 @@ var Home = React.createClass({
                                 <div className="col-md-4">
                                   
                                   <div id="rowboxtwo">
-
+                                      Global-Warming is one of the greatest natural threats facing our planet today.
+                                      <br />
+                                      <br />
+                                      However, a group of top scientists has just published a paper in Nature Climate Change robustly defending 
+                                      the idea that, as they put it, “The observed rate of global surface warming since the turn of this century
+                                      has been considerably less than the average simulated rate” produced by climate change models. (Derived from this
+                                      <a href="https://www.washingtonpost.com/news/energy-environment/wp/2016/02/24/top-scientists-insist-global-warming-really-did-slow-down-in-the-2000s/?utm_term=.6e91f07745e1" target="_blank" id="cleanupref"> Washington Post </a>
+                                      article).
+                                      <br/>
+                                      <br/>
+                                      Some researchers suggest there is no concrete evidence of future increase in trends of Global-warming.
                                   </div>
 
                                 </div>
@@ -291,9 +303,9 @@ var Home = React.createClass({
                                        African Countries as well. 
                                        <br />
                                        <br />
-                                       However, the current effects of over-population are having a significant impact
+                                       However, the current effects of over-population are having a major impact
                                        on our environment causing scarcity of many resources like food and clean water- but one of the little-known
-                                       impacts of over-population cause Global-Warming... Smog.
+                                       impacts of over-population cause Global-Warming... Smog being the culprit.
                                    </div> 
 
                                 </div>
