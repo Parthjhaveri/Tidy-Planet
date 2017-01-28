@@ -273,24 +273,47 @@ a:visited {
   width: 100%;
   border-color: #1a1a1a;
   border-width: 1px;
+  margin-bottom: 26px;
 }
 
 #rowboxone {
-  height: 400px;
+  height: auto;
   width: 100%;
-  background-color: #ecede8;  
+  background-color: #ecede8;
+  padding: 40px; 
+  color: #1a1a1a;
+  font-family: 'Lato', sans-serif;
+  text-align: left;
+  font-size: 18px;
+  font-weight: bold; 
 }
 
 #rowboxtwo {
-  height: 400px;
+  height: auto;
   width: 100%;
-  background-color: #ecede8;  
+  background-color: #ecede8;
+  padding: 40px;  
+  color: #1a1a1a;
+  font-family: 'Lato', sans-serif;
+  text-align: left;
+  font-size: 18px;
+  font-weight: bold;
 }
 
 #rowboxthree {
-  height: 400px;
+  height: auto;
   width: 100%;
-  background-color: #ecede8;  
+  background-color: #ecede8; 
+  padding: 40px; 
+  color: #1a1a1a;
+  font-family: 'Lato', sans-serif;
+  text-align: left;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#cleanupref {
+  color: #4cdeff;
 }
 
 @media only screen and (max-width: 900px) {

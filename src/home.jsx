@@ -260,13 +260,22 @@ var Home = React.createClass({
                                 <div className="col-md-4">
 
                                   <div id="rowboxone">
-                                  </div>
+                                      One of the most popular and feasible to extract plastics and other
+                                      garbage out of the Ocean is proposed by a Start-up based in the
+                                      Neatherlands- <a href="https://www.theoceancleanup.com/" target="_blank" id="cleanupref">The Ocean Cleanup</a>.
+                                      <br />
+                                      <br />
+                                      The project is led by a 22-year old Entrepreneur from the Neatherlands, who's Team has drafted out plans
+                                      that are able collect about 40% of garbage from the 'Great Pacific Trash Vortex'- an accumulation of trash approximately the size of 
+                                      Texas in the heart of the Pacific Ocean, within 10 years.
+                                  </div>  
                                   
                                 </div>
                                 
                                 <div className="col-md-4">
                                   
                                   <div id="rowboxtwo">
+
                                   </div>
 
                                 </div>
@@ -274,6 +283,17 @@ var Home = React.createClass({
                                 <div className="col-md-4">
                                    
                                    <div id="rowboxthree">
+                                       Contrary reports actually show that our Global Population may actually start to decline in the coming years.
+                                       It took the world longer to reach 7 Billion people than it took to reach 6 Billion, according to <a href="http://www.slate.com/articles/technology/future_tense/2013/01/world_population_may_actually_start_declining_not_exploding.html" target="_blank" id="cleanupref">Slate.</a>
+                                       <br />
+                                       <br />
+                                       This is thanks to education of Girls in many developing countries like India, and some sub-Saharan 
+                                       African Countries as well. 
+                                       <br />
+                                       <br />
+                                       However, the current effects of over-population are having a significant impact
+                                       on our environment causing scarcity of many resources like food and clean water- but one of the little-known
+                                       impacts of over-population cause Global-Warming... Smog.
                                    </div> 
 
                                 </div>
