@@ -189,8 +189,9 @@ a:visited {
 /*  padding-top: 100px;
   padding-bottom: 80px;*/
   border: 1px solid white;
-  border-left-color: #1a1a1a;
+  border-left-color: #ecede8;
   border-left-width: 2px;
+  padding-left: 35px;
 }
 
 #natgeocredit {
@@ -254,6 +255,42 @@ a:visited {
   width: auto;
   height: 400px;
   background-color: white;
+}
+
+.currentsols {
+  width: auto;
+  height: auto;
+  background-color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  color: #1a1a1a;
+  font-size: 20px;
+}
+
+#rowshr {
+  width: 100%;
+  border-color: #1a1a1a;
+  border-width: 1px;
+}
+
+#rowboxone {
+  height: 400px;
+  width: 100%;
+  background-color: #ecede8;  
+}
+
+#rowboxtwo {
+  height: 400px;
+  width: 100%;
+  background-color: #ecede8;  
+}
+
+#rowboxthree {
+  height: 400px;
+  width: 100%;
+  background-color: #ecede8;  
 }
 
 @media only screen and (max-width: 900px) {

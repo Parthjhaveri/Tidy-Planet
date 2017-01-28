@@ -229,6 +229,62 @@ var Home = React.createClass({
                     <center><p>So how will we clean up this mess?</p></center>
                   </div>
 
+                  {
+                    // CURRENT SOLUTIONS
+                  }
+
+                   <div className="currentsols">
+                        
+                        <center>
+                          <div className="container">
+                            <div className="row">
+                              
+                              <div className="col-md-4">
+                                Oceanic Pollution
+                              </div>
+                              
+                              <div className="col-md-4">
+                                Land Pollution
+                              </div>
+                              
+                              <div className="col-md-4">
+                                Over-population
+                              </div>
+
+                            </div>
+
+                            <hr id="rowshr"/>
+
+                            <div className="row">
+                              
+                                <div className="col-md-4">
+
+                                  <div id="rowboxone">
+                                  </div>
+                                  
+                                </div>
+                                
+                                <div className="col-md-4">
+                                  
+                                  <div id="rowboxtwo">
+                                  </div>
+
+                                </div>
+                                
+                                <div className="col-md-4">
+                                   
+                                   <div id="rowboxthree">
+                                   </div> 
+
+                                </div>
+
+                            </div>
+
+                          </div>
+                        </center>
+
+                  </div>
+
   </div>
     )
   }
