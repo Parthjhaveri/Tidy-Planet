@@ -13,5 +13,8 @@ An informative app on the current Environmental condition of Planet Earth. Right
 - HTML5
 - CSS3
 
+## API's
+- NASA (National Aeronautics and Space Administration)
+- NatGeo (National Geographic)
 
 
