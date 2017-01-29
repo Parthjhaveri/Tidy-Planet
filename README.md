@@ -3,6 +3,7 @@ An informative app on the current Environmental condition of Planet Earth. Right
 
 ## Main features
 - Live updates from National Geographic feed (NatGeo API)
+- GeoLocation based local pollution tracker
 
 ## Front-End
 - React JS
