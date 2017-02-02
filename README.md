@@ -1,7 +1,7 @@
 # Tidy-Planet
 
 ## 88% of the Ocean is now polluted with Plastics and Trash! 
-### (Collective-evolution.com)
+### (Stat derived from Collective-evolution.com)
 
 An informative app on the current Environmental condition of Planet Earth. Right from Oceanic Pollution and over-population to Global Warming. Tidy Planet points to the issues most pressing to our Planet, and presents systematic solutions to those problems.
 
