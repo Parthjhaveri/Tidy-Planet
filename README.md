@@ -13,7 +13,6 @@ An informative app on the current Environmental condition of Planet Earth. Right
 
 ## Front-End
 - React JS
-- Redux
 - HTML5
 - CSS3
 
